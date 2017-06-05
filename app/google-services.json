@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "547798248628",
+    "firebase_url": "https://nfcwed.firebaseio.com",
+    "project_id": "nfcwed",
+    "storage_bucket": "nfcwed.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:547798248628:android:b8533d781fa17010",
+        "android_client_info": {
+          "package_name": "com.dmitrii.nfcwed"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "547798248628-eqhcgq1d7knskl064o3084m7fusdodvg.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDO3wXDP-yPinZcYd-Cs9t1b3zH4zo3wME"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
